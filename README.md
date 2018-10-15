@@ -47,3 +47,5 @@ The plug-in should be installed into the RICOH THETA V with adb.
 See this link for more information:
 
 https://community.theta360.guide/t/theta-v-48-minute-4k-video-and-77-minute-2k-video-working/3483?u=codetricity
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/surveillance-2k-plugin)
